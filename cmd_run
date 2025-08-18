@@ -1,2 +1,0 @@
-cd "C:\Users\chadr\Downloads\boin_project v2.0"
-python -m streamlit run streamlit_run.py
