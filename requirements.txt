@@ -1,3 +1,0 @@
-streamlit
-rpy2
-google-generativeai
